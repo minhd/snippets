@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-@author  Minh Duc Nguyen <minh.nguyen@ands.org.au>
+@author Minh Duc Nguyen <minh.nguyen@ands.org.au>
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>authorminh</tabTrigger>
