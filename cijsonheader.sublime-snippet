@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$this->output->set_header('Content-type: application/json');
+set_exception_handler('json_exception_handler');
+]]></content>
+    <tabTrigger>cijsonheader</tabTrigger>
+    <scope>source.php</scope>
+</snippet>
