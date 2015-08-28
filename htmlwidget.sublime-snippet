@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+<div class="widget-box">
+    <div class="widget-title">
+        <h5>TITLE</h5>
+    </div>
+    <div class="widget-content">
+        CONTENT
+    </div>
+</div>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>htmlwidget</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>
