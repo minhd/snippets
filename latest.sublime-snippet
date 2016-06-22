@@ -1,0 +1,25 @@
+<snippet>
+    <content><![CDATA[
+use Illuminate\Foundation\Testing\WithoutMiddleware;
+use Illuminate\Foundation\Testing\DatabaseMigrations;
+use Illuminate\Foundation\Testing\DatabaseTransactions;
+
+class Test extends TestCase
+{
+
+    /**
+     * @test
+     * @cover
+     */
+    public function it_should()
+    {
+
+    }
+
+}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>latest</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+</snippet>
